@@ -1,4 +1,4 @@
-# Font Awesome Paid Icons 
+# [Font Awesome Paid Icons](https://mhr-rony.github.io/Font-awesome-paid-icon/)
 
 This project is a simple HTML page designed to allow users to copy Font Awesome Pro icons quickly and easily. Users can hover over an icon to view the "Copy Code Snippet" tooltip and click to copy the full icon code, which they can paste directly into their HTML files.
 
@@ -14,9 +14,9 @@ This project is a simple HTML page designed to allow users to copy Font Awesome 
 ### Step 1: Download the Repository
 First, download or clone the repository from GitHub:
 
-bash
+```bash
 git clone https://github.com/MHR-RONY/Font-awesome-paid-icon
-
+```
 
 ### Step 2: Extract the Files
 Once downloaded, extract the files to your project directory.
@@ -24,17 +24,17 @@ Once downloaded, extract the files to your project directory.
 ### Step 3: Add CSS Files to Your HTML
 Include the required Font Awesome Pro CSS files in the `<head>` section of your HTML file. For example:
 
-html
+```html
 <link rel="stylesheet" href="icon/css/all.css" />
 <link rel="stylesheet" href="icon/css/sharp-duotone-solid.css" />
 <link rel="stylesheet" href="icon/css/sharp-thin.css" />
 <link rel="stylesheet" href="icon/css/sharp-solid.css" />
 <link rel="stylesheet" href="icon/css/sharp-regular.css" />
 <link rel="stylesheet" href="icon/css/sharp-light.css" />
-
+```
 
 ### Step 4: Choose an Icon
-Visit the [Font Awesome Pro website](https://fontawesome.com) and choose the icon you want to use. 
+Visit the [Font Awesome Pro website](https://fontawesome.com) and choose the icon you want to use.
 
 ### Step 5: Copy the Icon Code
 Once you find the icon, simply click on it, and the icon code will be copied to your clipboard.
@@ -44,9 +44,9 @@ Paste the copied code directly into your HTML file. No need to include the CDN, 
 
 For example, to use the **address book** icon, add this code to your HTML:
 
-html
+```html
 <i class="fas fa-address-book"></i>
-
+```
 
 ## Available Icons
 Here are some of the available Font Awesome Pro icons included in this project:
@@ -84,8 +84,6 @@ Here are some of the available Font Awesome Pro icons included in this project:
 
 ## Author
 This project is created and maintained by **MHR Rony**.
-
-
 
 ## Contributing
 If you would like to contribute to this project, feel free to submit a pull request or open an issue.
